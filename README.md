@@ -4,8 +4,8 @@ This repository contains a hybrid rocket simulation based on mathematical and ph
 
 # How to set up this workspace on your PC
 
-# If Git is not installed on your PC
-# Install Git
+If Git is not installed on your PC
+Install Git
 Download and install Git from:
 
 https://git-scm.com/install/
