@@ -1,4 +1,4 @@
-# Gallipoli-Hybrid-Rocket-Simulation
+# Gallipoli Rocketry Hybrid Rocket Simulation
 
 This repository contains a hybrid rocket simulation based on mathematical and physical models.
 
