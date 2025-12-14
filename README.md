@@ -13,13 +13,13 @@ https://git-scm.com/install/
 
 Clone the repository to your local machine from the terminal screen:
 ```bash
-git clone https://github.com/fridayali/Gallipoli-Hybrid-Rocket-Simulation.git
+git clone https://github.com/fridayali/Gallipoli-Rocketry-Hybrid-Rocket-Simulation.git
 ```
 
 Enter cd command to enter the project directory:
 
 ```bash
-cd Gallipoli-Hybrid-Rocket-Simulation
+cd Gallipoli-Rocketry-Hybrid-Rocket-Simulation
 ```
 
 After adding or modifying data, calculations, or functions, use the following commands:
